@@ -1,1 +1,12 @@
 pip install pipenv
+
+pipenv shell
+
+django-admin runserver
+
+PS D:\project\python\django-tutorial> pipenv --venv
+C:\Users\m.yousefi\.virtualenvs\django-tutorial-MGj4-lWK
+
+activate virtualenvs on windows => C:\Users\m.yousefi\.virtualenvs\django-tutorial-MGj4-lWK\Scripts\Activate.ps1
+
+python manage.py startapp playground
